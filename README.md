@@ -1,5 +1,5 @@
 # Data Science Portfolio
-## Damilola Olaiya B.SC
+## Author - Damilola Olaiya B.SC
 
 ### About
 LinkedIn --> https://www.linkedin.com/in/damilola-olaiya/
